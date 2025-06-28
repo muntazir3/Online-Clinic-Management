@@ -1,0 +1,181 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EPROJECT
+build_property.RootNamespace = EPROJECT
+build_property.ProjectDir = C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/Account/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/admin/owner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cb3duZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/CompanyDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueURldGFpbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/CompanyDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueURldGFpbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/CompanyDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueURldGFpbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/CompanyDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueURldGFpbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/CompanyDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueURldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/EmpRegisters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wUmVnaXN0ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/EmpRegisters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wUmVnaXN0ZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/EmpRegisters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wUmVnaXN0ZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/EmpRegisters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wUmVnaXN0ZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/EmpRegisters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wUmVnaXN0ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/insurance/about.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdXJhbmNlXGFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/insurance/appoinment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdXJhbmNlXGFwcG9pbm1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/insurance/Btn_Description.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdXJhbmNlXEJ0bl9EZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/insurance/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdXJhbmNlXGNvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/insurance/doctor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdXJhbmNlXGRvY3Rvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/insurance/error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdXJhbmNlXGVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/insurance/feature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdXJhbmNlXGZlYXR1cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/insurance/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdXJhbmNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/insurance/review.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdXJhbmNlXHJldmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/insurance/service.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdXJhbmNlXHNlcnZpY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/insurance/team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdXJhbmNlXHRlYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/insurance/treatment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdXJhbmNlXHRyZWF0bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/insurance/ViewPolicyRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdXJhbmNlXFZpZXdQb2xpY3lSZXF1ZXN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/Policies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWNpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/Policies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWNpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/Policies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWNpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/Policies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWNpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/Policies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWNpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/Shared/admin_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkbWluX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/Shared/insurance_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGluc3VyYW5jZV9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Downloads/clinic management/clinic management/clinic management/EPROJECT/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1d6z7md2st

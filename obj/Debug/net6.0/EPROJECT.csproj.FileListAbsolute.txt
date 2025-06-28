@@ -1,0 +1,1555 @@
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\appsettings.json
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\EPROJECT.staticwebassets.runtime.json
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\EPROJECT.staticwebassets.endpoints.json
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\EPROJECT.exe
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\EPROJECT.deps.json
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\EPROJECT.runtimeconfig.json
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\EPROJECT.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\EPROJECT.pdb
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.AssemblyInfoInputs.cache
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.AssemblyInfo.cs
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.RazorAssemblyInfo.cache
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.RazorAssemblyInfo.cs
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\scopedcss\bundle\EPROJECT.styles.css
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\scopedcss\projectbundle\EPROJECT.bundle.scp.css
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.EPROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.EPROJECT.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.build.EPROJECT.props
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EPROJECT.props
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EPROJECT.props
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.dll
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\refint\EPROJECT.dll
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.pdb
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.genruntimeconfig.cache
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\ref\EPROJECT.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Humanizer.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\MessagePack.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\zaynn\source\repos\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.AssemblyReference.cache
+C:\Users\zaynn\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.Up2Date
+E:\source\repos\EPROJECT\bin\Debug\net6.0\appsettings.Development.json
+E:\source\repos\EPROJECT\bin\Debug\net6.0\appsettings.json
+E:\source\repos\EPROJECT\bin\Debug\net6.0\EPROJECT.staticwebassets.endpoints.json
+E:\source\repos\EPROJECT\bin\Debug\net6.0\EPROJECT.staticwebassets.runtime.json
+E:\source\repos\EPROJECT\bin\Debug\net6.0\EPROJECT.exe
+E:\source\repos\EPROJECT\bin\Debug\net6.0\EPROJECT.deps.json
+E:\source\repos\EPROJECT\bin\Debug\net6.0\EPROJECT.runtimeconfig.json
+E:\source\repos\EPROJECT\bin\Debug\net6.0\EPROJECT.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\EPROJECT.pdb
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Humanizer.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\MessagePack.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.Common.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\source\repos\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.AssemblyReference.cache
+E:\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.AssemblyInfoInputs.cache
+E:\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.AssemblyInfo.cs
+E:\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.CoreCompileInputs.cache
+E:\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.MvcApplicationPartsAssemblyInfo.cache
+E:\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.RazorAssemblyInfo.cache
+E:\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.RazorAssemblyInfo.cs
+E:\source\repos\EPROJECT\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\source\repos\EPROJECT\obj\Debug\net6.0\scopedcss\bundle\EPROJECT.styles.css
+E:\source\repos\EPROJECT\obj\Debug\net6.0\scopedcss\projectbundle\EPROJECT.bundle.scp.css
+E:\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets.build.json
+E:\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets.development.json
+E:\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+E:\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.EPROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+E:\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.EPROJECT.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.build.EPROJECT.props
+E:\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EPROJECT.props
+E:\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EPROJECT.props
+E:\source\repos\EPROJECT\obj\Debug\net6.0\staticwebassets.pack.json
+E:\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.Up2Date
+E:\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.dll
+E:\source\repos\EPROJECT\obj\Debug\net6.0\refint\EPROJECT.dll
+E:\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.pdb
+E:\source\repos\EPROJECT\obj\Debug\net6.0\EPROJECT.genruntimeconfig.cache
+E:\source\repos\EPROJECT\obj\Debug\net6.0\ref\EPROJECT.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\appsettings.json
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\EPROJECT.staticwebassets.runtime.json
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\EPROJECT.exe
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\EPROJECT.deps.json
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\EPROJECT.runtimeconfig.json
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\EPROJECT.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\EPROJECT.pdb
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Humanizer.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\MessagePack.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.AssemblyReference.cache
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\EPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\EPROJECT.AssemblyInfoInputs.cache
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\EPROJECT.AssemblyInfo.cs
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\EPROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\EPROJECT.RazorAssemblyInfo.cache
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\EPROJECT.RazorAssemblyInfo.cs
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.EPROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.build.EPROJECT.props
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EPROJECT.props
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EPROJECT.props
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\scopedcss\bundle\EPROJECT.styles.css
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\scopedcss\projectbundle\EPROJECT.bundle.scp.css
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.Up2Date
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\EPROJECT.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\refint\EPROJECT.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\EPROJECT.pdb
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\EPROJECT.genruntimeconfig.cache
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\obj\Debug\net6.0\ref\EPROJECT.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\asim2\OneDrive\Documents\projectRetry\EPROJECT\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\EPROJECT.staticwebassets.runtime.json
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\EPROJECT.exe
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\EPROJECT.deps.json
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\EPROJECT.runtimeconfig.json
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\EPROJECT.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\EPROJECT.pdb
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Downloads\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\EPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\EPROJECT.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\EPROJECT.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\EPROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\EPROJECT.RazorAssemblyInfo.cache
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\EPROJECT.RazorAssemblyInfo.cs
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.EPROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.build.EPROJECT.props
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EPROJECT.props
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EPROJECT.props
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\scopedcss\bundle\EPROJECT.styles.css
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\scopedcss\projectbundle\EPROJECT.bundle.scp.css
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.CopyComplete
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\EPROJECT.dll
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\refint\EPROJECT.dll
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\EPROJECT.pdb
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\EPROJECT.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\EPROJECT\obj\Debug\net6.0\ref\EPROJECT.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\appsettings.Development.json
+E:\insurance\EPROJECT\bin\Debug\net6.0\appsettings.json
+E:\insurance\EPROJECT\bin\Debug\net6.0\EPROJECT.staticwebassets.runtime.json
+E:\insurance\EPROJECT\bin\Debug\net6.0\EPROJECT.staticwebassets.endpoints.json
+E:\insurance\EPROJECT\bin\Debug\net6.0\EPROJECT.exe
+E:\insurance\EPROJECT\bin\Debug\net6.0\EPROJECT.deps.json
+E:\insurance\EPROJECT\bin\Debug\net6.0\EPROJECT.runtimeconfig.json
+E:\insurance\EPROJECT\bin\Debug\net6.0\EPROJECT.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\EPROJECT.pdb
+E:\insurance\EPROJECT\bin\Debug\net6.0\Humanizer.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\MessagePack.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\NuGet.Common.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.Text.Json.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\insurance\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\insurance\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.AssemblyReference.cache
+E:\insurance\EPROJECT\obj\Debug\net6.0\EPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+E:\insurance\EPROJECT\obj\Debug\net6.0\EPROJECT.AssemblyInfoInputs.cache
+E:\insurance\EPROJECT\obj\Debug\net6.0\EPROJECT.AssemblyInfo.cs
+E:\insurance\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.CoreCompileInputs.cache
+E:\insurance\EPROJECT\obj\Debug\net6.0\EPROJECT.MvcApplicationPartsAssemblyInfo.cache
+E:\insurance\EPROJECT\obj\Debug\net6.0\EPROJECT.RazorAssemblyInfo.cache
+E:\insurance\EPROJECT\obj\Debug\net6.0\EPROJECT.RazorAssemblyInfo.cs
+E:\insurance\EPROJECT\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\insurance\EPROJECT\obj\Debug\net6.0\scopedcss\bundle\EPROJECT.styles.css
+E:\insurance\EPROJECT\obj\Debug\net6.0\scopedcss\projectbundle\EPROJECT.bundle.scp.css
+E:\insurance\EPROJECT\obj\Debug\net6.0\staticwebassets.build.json
+E:\insurance\EPROJECT\obj\Debug\net6.0\staticwebassets.development.json
+E:\insurance\EPROJECT\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+E:\insurance\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.EPROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+E:\insurance\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.EPROJECT.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\insurance\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.build.EPROJECT.props
+E:\insurance\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EPROJECT.props
+E:\insurance\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EPROJECT.props
+E:\insurance\EPROJECT\obj\Debug\net6.0\staticwebassets.pack.json
+E:\insurance\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.Up2Date
+E:\insurance\EPROJECT\obj\Debug\net6.0\EPROJECT.dll
+E:\insurance\EPROJECT\obj\Debug\net6.0\refint\EPROJECT.dll
+E:\insurance\EPROJECT\obj\Debug\net6.0\EPROJECT.pdb
+E:\insurance\EPROJECT\obj\Debug\net6.0\EPROJECT.genruntimeconfig.cache
+E:\insurance\EPROJECT\obj\Debug\net6.0\ref\EPROJECT.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\EPROJECT.staticwebassets.runtime.json
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\EPROJECT.staticwebassets.endpoints.json
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\EPROJECT.exe
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\EPROJECT.deps.json
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\EPROJECT.runtimeconfig.json
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\EPROJECT.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\EPROJECT.pdb
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\EPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\EPROJECT.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\EPROJECT.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\EPROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\EPROJECT.RazorAssemblyInfo.cache
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\EPROJECT.RazorAssemblyInfo.cs
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\scopedcss\bundle\EPROJECT.styles.css
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\scopedcss\projectbundle\EPROJECT.bundle.scp.css
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.EPROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.EPROJECT.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.build.EPROJECT.props
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EPROJECT.props
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EPROJECT.props
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\EPROJECT.csproj.Up2Date
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\EPROJECT.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\refint\EPROJECT.dll
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\EPROJECT.pdb
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\EPROJECT.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\clinic management\clinic management\clinic management\EPROJECT\obj\Debug\net6.0\ref\EPROJECT.dll
