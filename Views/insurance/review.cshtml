@@ -1,0 +1,98 @@
+﻿@model IEnumerable<EPROJECT.Models.Policy>
+@{
+    ViewData["Title"] = "review";
+    Layout = "~/Views/Shared/insurance_Layout.cshtml";
+}
+
+<!-- Page Header Start -->
+<div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container py-5">
+        <h1 class="display-4 animated slideInDown mb-4">Policies</h1>
+        <nav aria-label="breadcrumb animated slideInDown">
+            <ol class="breadcrumb mb-0">
+                <li class="breadcrumb-item"><a asp-controller="insurance" asp-action="Index">Home</a></li>
+                <li class="breadcrumb-item"><a asp-controller="insurance" asp-action="review">Pages</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Policies</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+<!-- Page Header End -->
+<!-- Testimonial Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center mx-auto" style="max-width: 500px;">
+            <h1 class="display-6 mb-5"> About Our Policies</h1>
+        </div>
+      </div>
+</div>
+<!-- Testimonial End -->
+
+
+
+<div class="table-responsive">
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Policyid)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Policyname)
+                </th>
+                <th>
+                   Policy Description
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Amount)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Emi)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Medicalid)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Company)
+                </th>
+                <th>Action</th>
+
+            </tr>
+
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Policyid)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Policyname)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Policydesc)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Amount)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Emi)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Medicalid)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Company.CompanyName)
+                    </td>
+                    <td>
+                        <a class="btn btn-primary" asp-action="Btn_Description" asp-route-companyId="@item.Company.Companyid">Company details</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+

@@ -1,0 +1,55 @@
+﻿@model EPROJECT.Models.Policy
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/admin_Layout.cshtml";
+}
+
+
+
+<h4>Add Policy</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Policyname" class="control-label"></label>
+                <input asp-for="Policyname" class="form-control" />
+                <span asp-validation-for="Policyname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Policydesc" class="control-label"></label>
+                <input asp-for="Policydesc" class="form-control" />
+                <span asp-validation-for="Policydesc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Amount" class="control-label"></label>
+                <input asp-for="Amount" class="form-control" />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Emi" class="control-label"></label>
+                <input asp-for="Emi" class="form-control" />
+                <span asp-validation-for="Emi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Companyid" class="control-label"></label>
+                <select asp-for="Companyid" class="form-control" asp-items="ViewBag.CompanyName"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Medicalid" class="control-label"></label>
+                <input asp-for="Medicalid" class="form-control" />
+                <span asp-validation-for="Medicalid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-outline-primary" asp-action="Index">Back to List</a>
+</div>
+

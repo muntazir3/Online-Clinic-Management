@@ -1,0 +1,105 @@
+﻿@model IEnumerable<EPROJECT.Models.EmpRegister>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/admin_Layout.cshtml";
+}
+
+
+@if (TempData["emp"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>@TempData["emp"] </strong>
+        
+    </div>
+}
+
+@if (TempData["EDelete"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>@TempData["EDelete"] </strong>
+        
+    </div>
+}
+
+
+<h1>Employees</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-outline-primary">Add Employee</a>
+</p>
+
+<div class="table-responsive">
+    <table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Designation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JoinDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Salary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Contactno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.City)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Designation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.JoinDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Contactno)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                        <a asp-action="Edit" class="badge badge-success text-success" asp-route-id="@item.Empid">Edit</a> |
+                        <a asp-action="Details" class="badge badge-success text-primary" asp-route-id="@item.Empid">Details</a> |
+                        <a asp-action="Delete" class="badge badge-success text-danger" asp-route-id="@item.Empid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
